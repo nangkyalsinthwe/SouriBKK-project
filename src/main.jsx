@@ -15,12 +15,13 @@ import ThankYou from './Pages/Shop/ThankYou';
 import Checkout from './Pages/Shop/Checkout';
 import AuthRequired from './Components/AuthRequired';
 import { Toaster } from 'react-hot-toast';
+import './index.css'
 
 
 function App() {
   return (
     <CartProvider>
-      <BrowserRouter>
+      <BrowserRouter basename="/SouriBKK-project">
         <ScrollToTop />
         <Toaster
           position="top-center"
