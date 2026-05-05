@@ -1,0 +1,197 @@
+{
+  "store_name": "Souri BKK",
+  "products": [
+    {
+      "id": "1",
+      "name": "Lemon Pie Fatcaron",
+      "type": "fatcaron",
+      "price": 100,
+      "image_url": "https://obs-ect.line-scdn.net/r/ect/ect/image_16710848422363168966c6c8806t10d6e21a",
+      "description": "Lemon cream cheese with lemon sauce"
+    },
+    {
+      "id": "2",
+      "name": "Red Velvet Fatcaron",
+      "type": "fatcaron",
+      "price": 100,
+      "image_url": "https://obs-ect.line-scdn.net/r/ect/ect/image_167039872411479420522de6353t10cc69f4",
+      "description": "Souri's signature cream cheese"
+    },
+    {
+      "id": "3",
+      "name": "Salted Caramel Fatcaron",
+      "type": "fatcaron",
+      "price": 90,
+      "image_url": "https://obs-ect.line-scdn.net/r/ect/ect/image_167040010376754807822de2130t10cc6f57",
+      "description": "Caramel butter cream with Caramel sauce"
+    },
+    {
+      "id": "4",
+      "name": "Birthday Cake Fatcaron",
+      "type": "fatcaron",
+      "price": 90,
+      "image_url": "https://obs-ect.line-scdn.net/r/ect/ect/image_1670400045014071415b5797654t10cc6f1d",
+      "description": "Madagascar vanilla buttercream with fruity cereals"
+    },
+    {
+      "id": "5",
+      "name": "Cookie'N Cream",
+      "type": "fatcaron",
+      "price": 90,
+      "image_url": "https://obs-ect.line-scdn.net/r/ect/ect/image_1670398702275714705b5781554t10cc69de",
+      "description": "Oreo cream cheese with an Oreo biscuit"
+    },
+    {
+      "id": "6",
+      "name": "Dark Chocolate Fatcaron",
+      "type": "fatcaron",
+      "price": 120,
+      "image_url": "https://obs-ect.line-scdn.net/r/ect/ect/image_17061768786236187866c6b9033t12ee585e",
+      "description": "Truly chocolate ganache"
+    },
+    {
+      "id": "7",
+      "name": "Creme Brulee Fatcaron",
+      "type": "fatcaron",
+      "price": 100,
+      "image_url": "https://obs-ect.line-scdn.net/r/ect/ect/cj02M3M1N3IxcG5xZmw1JnM9anA2JnQ9bSZ1PTFlcXVuMHMyODNoZzAmaT0w",
+      "description": "Madagascar vanilla buttercream with caramelize sugar on top"
+    },
+    {
+      "id": "8",
+      "name": "Blueberry Cheesecake Crumble Fatcaron",
+      "type": "fatcaron",
+      "price": 110,
+      "image_url": "https://obs-ect.line-scdn.net/r/ect/ect/image_169103631380743364422df2108t12075189",
+      "description": "Souri's cream cheese with Blueberry sauce and crumbles"
+    },
+    {
+      "id": "9",
+      "name": "Hokkaido Milk Fatcaron",
+      "type": "fatcaron",
+      "price": 100,
+      "image_url": "https://obs-ect.line-scdn.net/r/ect/ect/image_167039997765681389922dc6776t10cc6ed9",
+      "description": "Hokkaido milk with white chocolate ganache"
+    },
+    {
+      "id": "10",
+      "name": "Baby Mango and Sweet Fish Sauce Fatcaron",
+      "type": "fatcaron",
+      "price": 90,
+      "image_url": "https://obs-ect.line-scdn.net/r/ect/ect/cj02ZmNwOWxnNTdwdWRsJnM9anA2JnQ9bSZ1PTFrZnJlODM0azNnMDAmaT0w",
+      "description": "A refreshing tart-sweet green mango bite capturing vibrant Thai street flavors"
+    },
+    {
+      "id": "11",
+      "name": "Peach Tea Fatcaron",
+      "type": "fatcaron",
+      "price": 90,
+      "image_url": "https://obs-ect.line-scdn.net/r/ect/ect/cj0zNXZvajlzYmt0NWo5JnM9anA2JnQ9bSZ1PTFrMWVha3VwMDRxZzAmaT0w",
+      "description": "White peach and lemon buttercream with peach tea jelly"
+    },
+    {
+      "id": "12",
+      "name": "Summer Smoothies Fatcaron",
+      "type": "fatcaron",
+      "price": 90,
+      "image_url": "https://obs-ect.line-scdn.net/r/ect/ect/image_1670398738945443366b5781676t10cc6a02",
+      "description": "Passionfruit buttercream with passionfruit and mango coulis"
+    },
+    {
+      "id": "13",
+      "name": "Thai Tea Fatcaron",
+      "type": "fatcaron",
+      "price": 90,
+      "image_url": "https://obs-ect.line-scdn.net/r/ect/ect/cj03M3RqcnJhNWEycDZrJnM9anA2JnQ9bSZ1PTFmdGV1cHRxNDQ4ZzAmaT0w",
+      "description": "Thai tea white chocolate with housemade Thai tea sauce"
+    },
+    {
+      "id": "14",
+      "name": "Tiramisu Fatcaron",
+      "type": "fatcaron",
+      "price": 110,
+      "image_url": "https://obs-ect.line-scdn.net/r/ect/ect/cj0tNXNpc2FmdG9rYWxzMSZzPWpwNiZ0PW0mdT0xZXF2MG8xaGszamcwJmk9MA",
+      "description": "Souri's style tiramisu"
+    },
+    {
+      "id": "15",
+      "name": "Choco Banana Fatcaron",
+      "type": "fatcaron",
+      "price": 100,
+      "image_url": "https://obs-ect.line-scdn.net/r/ect/ect/cj1xNnR0dGUwcXJwOTUmcz1qcDYmdD1tJnU9MWp1NmFqN2JnNDEwMCZpPTA",
+      "description": "Indulge in a decadent fusion of choco buttercream and rich banana cake"
+    },
+    {
+      "id": "16",
+      "name": "Matcha Strawberry Fatcaron",
+      "type": "fatcaron",
+      "price": 120,
+      "image_url": "https://obs-ect.line-scdn.net/r/ect/ect/cj0tNmdjbmFsb2NscjhqZiZzPWpwNiZ0PW0mdT0xamw2OTV1bmc0azAwJmk9MA",
+      "description": "Mild matcha with strawberry sauce and strawberry white chocolate"
+    },
+    {
+      "id": "17",
+      "name": "Thai Red Rubies Fatcaron",
+      "type": "fatcaron",
+      "price": 85,
+      "image_url": "https://obs-ect.line-scdn.net/r/ect/ect/cj0zdW8zbDZyMDNxaTJoJnM9anA2JnQ9bSZ1PTFqYmg3NW1mZzRoMDAmaT0w",
+      "description": "A sweet, chilled dessert with the bright crunch of water chestnuts and a velvety coconut cream filling."
+    },
+    {
+      "id": "18",
+      "name": "SOURI Fatcalong Dining Course",
+      "type": "set",
+      "price": 290,
+      "image_url": "https://obs-ect.line-scdn.net/r/ect/ect/cj0tNmpxYzRnajBscDNwMiZzPWpwNiZ0PW0mdT0xazQxMjNya2MzNzAwJmk9MA",
+      "description": "SOURI FATCALONG DINING COURSE : | Spinach Cheese | Carbonara Truffle | Strawberry Jelly | A triple-flavor fatcaron combining starter , main and  dessert in one extraordinary bite"
+    },
+    {
+      "id": "19",
+      "name": "Sweet Confession Box",
+      "type": "set",
+      "price": 660,
+      "image_url": "https://obs-ect.line-scdn.net/r/ect/ect/cj00YjgybjU0b2c2OTB1JnM9anA2JnQ9bSZ1PTFqbDVhNG84ODNkMDAmaT0w",
+      "description": "Sweet Confession box 6 : | 🍫 Ruby Chocolate Fatcaron | 🫐 Blueberry Yogurt Fatcaron | 🍰 Brownie Buttercream Fatcaron | 🩷 Nom Yen Fatcaron | 🧈 Butterscotch Choc Chip Fatcaron |🍓 Strawberry Cream Cheese Fatcaron"
+    },
+    {
+      "id": "20",
+      "name": "Fruity Sunshine Set (Fatcaron Set)",
+      "type": "set",
+      "price": 290,
+      "image_url": "https://obs-ect.line-scdn.net/r/ect/ect/cj02ZnFuNGY1dTd0cWxwJnM9anA2JnQ9bSZ1PTFqMDczZHBwczUwZzAmaT0w",
+      "description": "Fruity Sunshine Set : | Blueberry Cheesecake Crumble | Peach Tea | Summer Smoothies"
+    },
+    {
+      "id": "21",
+      "name": "Red Velvet Cake",
+      "type": "cake",
+      "price": 2690,
+      "image_url": "https://obs-ect.line-scdn.net/r/ect/ect/cj01NXFnN2tudGc5N3U4JnM9anA2JnQ9bSZ1PTFlNTJzOTFkNDNpZzAmaT0w",
+      "description": "Signature vanilla cream cheese | Size: Weighs 2 pounds, 14.5 cm wide, 13 cm high | Customization: Decorated with Butter Cream in English and Thai, up to 8 words, or Fondant up to 7 letters | Pre-order: 1 day"
+    },
+    {
+      "id": "22",
+      "name": "Birthday Cake",
+      "type": "cake",
+      "price": 2460,
+      "image_url": "https://obs-ect.line-scdn.net/r/ect/ect/cj0tNWhhdWwyazQ1bXVsdCZzPWpwNiZ0PW0mdT0xZTUyaWQzNWszamcwJmk9MA",
+      "description": "Madagascar vanilla buttercream with housemade strawberry jam topped with fruity cereals | Size: Weighs 2 pounds, 14.5 cm wide, 13 cm high | Customization: Decorated with Butter Cream in English and Thai, up to 8 words, or Fondant up to 7 letters | Pre-order: 1 day"
+    },
+    {
+      "id": "23",
+      "name": "Fruity Summer Cake",
+      "type": "cake",
+      "price": 890,
+      "image_url": "https://obs-ect.line-scdn.net/r/ect/ect/cj0tNGxqcmM3dWVldnVjaSZzPWpwNiZ0PW0mdT0xZTUydThqbGszajAwJmk9MA",
+      "description": "Peach Tea | Lemon Pie | Summer Smoothies | Pre-order: 1 day"
+    },
+    {
+      "id": "24",
+      "name": "Triple Joy Cake",
+      "type": "cake",
+      "price": 930,
+      "image_url": "https://obs-ect.line-scdn.net/r/ect/ect/cj0tMWZoYm4yOW9sZWtuZiZzPWpwNiZ0PW0mdT0xZTUydTg1bm8zajAwJmk9MA",
+      "description": "Lemon Pie | Birthday Cake | Hokkaido Milk | Pre-order: 1 day"
+    }
+  ]
+}
