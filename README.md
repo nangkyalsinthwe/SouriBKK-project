@@ -1,16 +1,25 @@
-# React + Vite
+# Souri BKK — Macaron Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive frontend web application showcasing **Souri BKK** (a Bangkok macaron brand), built with **React**, **Tailwind CSS**, **Vite**, and **React Router**, and deployed via **GitHub Pages**.
 
-Currently, two official plugins are available:
+- **Live Demo:** https://nangkyalsinthwe.github.io/SouriBKK-project/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- **Multi-Page Navigation:** Smooth client-side routing across pages using React Router.
+- **Responsive UI:** Styled with Tailwind CSS for desktop, tablet, and mobile screens.
+- **Fast Production Build:** Bundled with Vite and configured for GitHub Pages deployment.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3
+- **Styling:** Tailwind CSS
+- **Routing & Build Tool:** React Router, Vite
+- **Deployment:** GitHub Pages & GitHub Actions
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started (Run Locally)
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/nangkyalsinthwe/SouriBKK-project.git](https://github.com/nangkyalsinthwe/SouriBKK-project.git)
+   cd SouriBKK-project
