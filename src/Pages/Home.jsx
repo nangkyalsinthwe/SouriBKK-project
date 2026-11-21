@@ -2,6 +2,7 @@ import React from 'react'
 import macaronVideo from "../assets/macaronVideo.mp4"
 import macaronLand from '../assets/landing.jpg'
 import { ChevronLeft, ChevronRight, Star } from 'lucide-react';
+import { Link } from 'react-router-dom';
 import reviews from '../Reviews';
 
 const Home = () => {
@@ -92,7 +93,7 @@ const Home = () => {
                 className="group relative mt-10 border-2 border-[#F199B9] text-[#F199B9] font-black px-10 py-4 rounded-full uppercase tracking-[0.2em] italic overflow-hidden transition-all duration-500 hover:text-white focus:outline-none focus:ring-2 focus:ring-[#F199B9] focus:ring-offset-2"
                 aria-label="Explore our macaron flavors"
               >
-                <span className="relative z-10"><a href='/products'>Explore Flavors</a></span>
+                <span className="relative z-10"><Link to='/products'>Explore Flavors</Link></span>
                 <div className="absolute inset-0 bg-[#F199B9] translate-y-full group-hover:translate-y-0 transition-transform duration-500" aria-hidden="true"></div>
               </button>
             </div>
